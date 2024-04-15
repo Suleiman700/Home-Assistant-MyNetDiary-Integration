@@ -1,0 +1,10 @@
+{
+  "domain": "mynetdiary",
+  "name": "MyNetDiary",
+  "codeowners": [],
+  "dependencies": [],
+  "documentation": "https://github.com/Suleiman700/Home-Assistant-MyNetDiary-Integration",
+  "iot_class": "local_polling",
+  "requirements": [],
+  "version": "1.0.0"
+}
