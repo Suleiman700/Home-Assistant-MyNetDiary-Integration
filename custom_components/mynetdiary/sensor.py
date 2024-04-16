@@ -102,8 +102,8 @@ class MyNetDiaryCurrentWeight(SensorEntity):
             # Convert the string to a floating-point number
             weight_value = float(current_weight)
             self._attr_native_value = weight_value
-        else:
-            self._attr_native_value = -1
+#         else:
+#             self._attr_native_value = -1
 
 class MyNetDiaryStartWeight(SensorEntity):
     """Representation of a Sensor."""
