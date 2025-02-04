@@ -1,4 +1,8 @@
-# Example Sensor
+Important: Since MyNetDiary changed many things in their web app, This sensor no longer works
+
+There is no option to publish your profile to the public and access it via url to get weight
+
+---
 
 A Home Assistant integration for MyNetDiary.
 
